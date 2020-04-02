@@ -1,1 +1,2 @@
-com\spring\mvc\security\ctrl\Ctrl.class
+com\spring\mvc\security\ctrl\AdminController.class
+com\spring\mvc\security\ctrl\UserController.class
